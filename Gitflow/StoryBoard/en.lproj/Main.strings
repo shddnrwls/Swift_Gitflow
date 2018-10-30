@@ -1,0 +1,123 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "0BB-nU-Jlc"; */
+"0BB-nU-Jlc.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "6aP-Fe-wB4"; */
+"6aP-Fe-wB4.normalTitle" = "All";
+
+/* Class = "UILabel"; text = "익명"; ObjectID = "7Vv-Pc-jqg"; */
+"7Vv-Pc-jqg.text" = "익명";
+
+/* Class = "UIButton"; normalTitle = "컴퓨터공학과"; ObjectID = "8sO-W9-1xa"; */
+"8sO-W9-1xa.normalTitle" = "컴퓨터공학과";
+
+/* Class = "UILabel"; text = "59892"; ObjectID = "9xi-Xf-uqr"; */
+"9xi-Xf-uqr.text" = "59892";
+
+/* Class = "UILabel"; text = "2018년 09월 25일 00:43"; ObjectID = "B68-oH-cjb"; */
+"B68-oH-cjb.text" = "2018년 09월 25일 00:43";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "BJy-cO-1Yz"; */
+"BJy-cO-1Yz.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Swift_gittrending"; ObjectID = "CAX-5U-xhf"; */
+"CAX-5U-xhf.text" = "Swift_gittrending";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "D95-h9-KzR"; */
+"D95-h9-KzR.title" = "Item";
+
+/* Class = "UILabel"; text = "GitFlow"; ObjectID = "FDb-Bm-soP"; */
+"FDb-Bm-soP.text" = "GitFlow";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "GBh-Ix-mpW"; */
+"GBh-Ix-mpW.title" = "Item";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "HKv-GK-wnF"; */
+"HKv-GK-wnF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Github Client"; ObjectID = "I6U-I7-AA3"; */
+"I6U-I7-AA3.text" = "Github Client";
+
+/* Class = "UIButton"; normalTitle = "IT"; ObjectID = "MJI-tc-JPJ"; */
+"MJI-tc-JPJ.normalTitle" = "IT";
+
+/* Class = "UILabel"; text = "Swift"; ObjectID = "Mn9-wD-t4B"; */
+"Mn9-wD-t4B.text" = "Swift";
+
+/* Class = "UINavigationItem"; title = "Q&A"; ObjectID = "ONr-A5-pYJ"; */
+"ONr-A5-pYJ.title" = "Q&A";
+
+/* Class = "UILabel"; text = "shddnrwls"; ObjectID = "Oub-RI-Fpo"; */
+"Oub-RI-Fpo.text" = "shddnrwls";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PuM-ct-riY"; */
+"PuM-ct-riY.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "회원가입 하기"; ObjectID = "Q5N-83-NPn"; */
+"Q5N-83-NPn.normalTitle" = "회원가입 하기";
+
+/* Class = "UILabel"; text = "1/415"; ObjectID = "Ra1-Uu-PVe"; */
+"Ra1-Uu-PVe.text" = "1/415";
+
+/* Class = "UILabel"; text = "2018년 09월 25일 00:43"; ObjectID = "RyP-af-ug6"; */
+"RyP-af-ug6.text" = "2018년 09월 25일 00:43";
+
+/* Class = "UINavigationItem"; title = "Main"; ObjectID = "S0T-qa-tGt"; */
+"S0T-qa-tGt.title" = "Main";
+
+/* Class = "UILabel"; text = "익명"; ObjectID = "Sre-Od-CJn"; */
+"Sre-Od-CJn.text" = "익명";
+
+/* Class = "UIButton"; normalTitle = "비밀번호를 잊어버렸나요?"; ObjectID = "Wwx-DL-46D"; */
+"Wwx-DL-46D.normalTitle" = "비밀번호를 잊어버렸나요?";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Z6Q-Ou-Wbz"; */
+"Z6Q-Ou-Wbz.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "정보통신공학과"; ObjectID = "cRI-qM-m4a"; */
+"cRI-qM-m4a.normalTitle" = "정보통신공학과";
+
+/* Class = "UILabel"; text = "Github Client"; ObjectID = "cWQ-SR-zth"; */
+"cWQ-SR-zth.text" = "Github Client";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "eSC-7L-KWK"; */
+"eSC-7L-KWK.text" = "Language";
+
+/* Class = "UILabel"; text = "익명"; ObjectID = "gKc-MS-EHG"; */
+"gKc-MS-EHG.text" = "익명";
+
+/* Class = "UIButton"; normalTitle = "로그인 하기"; ObjectID = "gUY-Jr-gpw"; */
+"gUY-Jr-gpw.normalTitle" = "로그인 하기";
+
+/* Class = "UINavigationItem"; title = "질문하기"; ObjectID = "h9l-Xk-685"; */
+"h9l-Xk-685.title" = "질문하기";
+
+/* Class = "UILabel"; text = "GitFlow"; ObjectID = "hm1-XV-6XL"; */
+"hm1-XV-6XL.text" = "GitFlow";
+
+/* Class = "UIButton"; normalTitle = "소프트웨어공학과"; ObjectID = "hvC-ds-cvY"; */
+"hvC-ds-cvY.normalTitle" = "소프트웨어공학과";
+
+/* Class = "UILabel"; text = "2018년 09월 25일 00:43"; ObjectID = "jlw-dx-j9P"; */
+"jlw-dx-j9P.text" = "2018년 09월 25일 00:43";
+
+/* Class = "UITextField"; placeholder = "댓글을 입력하세요"; ObjectID = "pCT-vM-qT7"; */
+"pCT-vM-qT7.placeholder" = "댓글을 입력하세요";
+
+/* Class = "UILabel"; text = "RepoName"; ObjectID = "sb6-sw-MXk"; */
+"sb6-sw-MXk.text" = "RepoName";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "v2S-NJ-AaS"; */
+"v2S-NJ-AaS.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "User / Total Commit"; ObjectID = "vK0-vv-fkX"; */
+"vK0-vv-fkX.text" = "User / Total Commit";
+
+/* Class = "UILabel"; text = "Code Line"; ObjectID = "wKP-dO-sYS"; */
+"wKP-dO-sYS.text" = "Code Line";
+
+/* Class = "UITextField"; placeholder = "GitHub UserName"; ObjectID = "xf4-Tw-Biz"; */
+"xf4-Tw-Biz.placeholder" = "GitHub UserName";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "xzQ-ed-tvP"; */
+"xzQ-ed-tvP.normalTitle" = "Select";
